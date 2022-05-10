@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  background-color: #61dafb;
+  align-self: center;
+  border-style: dotted;
+  border-width: 10px;
+}
+
+.newfilm{
+  background-color: #61dafb;
+  align-self: center;
+  border-style: dotted;
+  border-width: 10px;
+}
+
+.films{
+  background-color: #aed9e5;
+  align-self: center;
+  padding: 10px;
+  margin: 10px;
+  list-style: none;
+}
+
+body{
+  background-color: rgb(194, 236, 236);
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
